@@ -39,7 +39,7 @@
 <!-- INTRO -->
 # 📖 QR Code Generator<a name="about-project"></a>
 
-> QR Code Generator is an interactive app that generates QR Codes based on user's input.
+> QR Code Generator is an interactive app that generates QR Codes based on user's input. It uses React's QRCode third party library. The QR Code is generated based on what the user types in the input field. This app could be integrated into any app that requires QR Code generation functionality.
 
 ## 🛠 Built With <a name="built-with"></a>
 1. React
